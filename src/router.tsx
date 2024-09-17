@@ -25,5 +25,5 @@ export const router = createBrowserRouter(
       ],
     },
   ],
-  { basename: '/Hujurat' },
+  // { basename: '/Hujurat' },
 );
